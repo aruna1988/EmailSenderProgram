@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1u37S8hfeCTmZ/VT0gPM9MJ7tgwQmgQpUyWLYdgjb5BDgk0fLOl+t9veeY+FtyDIMk/B0r+vaX4SAIBG0Xp92g==",
+  "dgSpecHash": "5Jz+8n4wxrKNSjpID9hdv7fI6QHmHWRPJby9/RneK/MX4hQ7ntyS4II0ooq7fX94cm45I2S0i9OVc46MM26HaA==",
   "success": true,
-  "projectFilePath": "E:\\private\\git project\\EmailSending\\EmailSenderDomain\\EmailSenderDomain.csproj",
+  "projectFilePath": "E:\\private\\git project\\ddddddddd\\EmailSenderDomain\\EmailSenderDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

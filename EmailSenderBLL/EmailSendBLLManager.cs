@@ -51,10 +51,6 @@ namespace EmailSenderBLL
 			//bool IsSucess = true;
 			try
 			{
-				
-				//List all customers
-				//List<Customer> e = objEmailDAL.ListCustomers();
-
 				//loop through list of new customers
 				for (int i = 0; i < e.Count; i++)
 				{
@@ -74,10 +70,9 @@ namespace EmailSenderBLL
 							//Send mail from info@eyepax.com
 							m.From = new System.Net.Mail.MailAddress(objEmail.FromEmail);
 							//Add body to mail
-							m.Body = "Hi " + e[i].Email +  objEmail.Body; /*    "Hi " + e[i].Email +
-									    "<br>We would like to welcome you as customer on our site!<br><br>Best Regards,<br>EYEPAX Team";*/
+							m.Body = "Hi " + e[i].Email +  objEmail.Body; 
 #if DEBUG
-							//Don't send mails in debug mode, just write the emails in console
+							
 							//Console.WriteLine("Send mail to:" + e[i].Email);
 							OutputMessage = " Send mail to:" + e[i].Email;
 
