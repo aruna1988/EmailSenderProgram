@@ -1,0 +1,15 @@
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderBLL.deps.json
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderBLL.dll
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderBLL.pdb
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderDAL.dll
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderDomain.dll
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderDAL.pdb
+E:\private\git project\ddddddddd\EmailSenderBLL\bin\Debug\netstandard2.0\EmailSenderDomain.pdb
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.csproj.AssemblyReference.cache
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.AssemblyInfoInputs.cache
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.AssemblyInfo.cs
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.csproj.CoreCompileInputs.cache
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.csproj.CopyComplete
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.dll
+E:\private\git project\ddddddddd\EmailSenderBLL\obj\Debug\netstandard2.0\EmailSenderBLL.pdb

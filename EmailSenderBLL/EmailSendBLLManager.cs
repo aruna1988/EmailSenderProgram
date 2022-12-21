@@ -117,10 +117,10 @@ namespace EmailSenderBLL
 			try
 			{
 				Email objEmail = new Email();
-				objEmail.Subject = "Welcome as a new customer at EYEPAX!"; 
+				objEmail.Subject = "Welcome as a new customer at ABC!"; 
 				objEmail.Body =		
-									 "<br>We would like to welcome you as customer on our site!<br><br>Best Regards,<br>EYEPAX Team"; 
-				objEmail.FromEmail = "infor @eyepax.com";
+									 "<br>We would like to welcome you as customer on our site!<br><br>Best Regards,<br>ABC Team"; 
+				objEmail.FromEmail = "info@abc.com";
 
 
 				List<Customer> e = objEmailDAL.ListCustomers();		
@@ -145,14 +145,14 @@ namespace EmailSenderBLL
 				objEmail.Body = 
 					 "<br>We miss you as a customer. Our shop is filled with nice products. Here is a voucher that gives you 50 kr to shop for." +
 					
-						 "<br><br>Best Regards,<br>EYEPAX Team";
-				objEmail.FromEmail = "infor @eyepax.com";
+						 "<br><br>Best Regards,<br>ABC Team";
+				objEmail.FromEmail = "info@abc.com";
 
 
 				List<Customer> e = objEmailDAL.ListCustomers();
 				List<Order> f = objEmailDAL.ListOrders();
 				List<Customer> result = e.Where(X => f.All(p2 => p2.CustomerEmail != X.Email)).ToList();
-				_List= SedEmail(result, objEmail, ref OutputMessage);
+				_List= SedEmail(result, objEmail, ref OutputMessage); 
 			}
 			catch(Exception ex)
             {

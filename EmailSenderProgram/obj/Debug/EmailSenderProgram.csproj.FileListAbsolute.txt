@@ -1,0 +1,17 @@
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderBLL.dll
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderDomain.dll
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\log4net.dll
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderDAL.dll
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderBLL.pdb
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderDomain.pdb
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\log4net.xml
+E:\private\git project\ddddddddd\EmailSenderProgram\bin\Debug\EmailSenderDAL.pdb
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.AssemblyReference.cache
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.SuggestedBindingRedirects.cache
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CopyComplete
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+E:\private\git project\ddddddddd\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
